@@ -1,0 +1,30 @@
+.match-details-container .match-summary-header h1 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #0275d8; /* Bootstrap primary color */
+  }
+  
+  .team-card .team-name {
+    font-weight: bold;
+  }
+  
+  .team-card .team-lob {
+    float: right;
+    font-style: italic;
+    color: #5a5a5a;
+  }
+  
+  .vs-col .vs-sign {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
+  /* .round-badge {
+    margin-left: 10px;
+  }
+  
+  .winner-badge {
+    margin-left: 10px;
+  }
+   */
